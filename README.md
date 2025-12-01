@@ -126,7 +126,7 @@ I even added some of the original stretch goals during this phase: lock screen f
 
 ## The Final Feature Set
 
-The 1.0 build had:
+The 0.1.0 build had:
 
 - **Widgets view:** A scrolling list of widgets. Minimal, customizable.
 - **App list view:** Scrolling, searchable, alphabetical list of installed apps.
