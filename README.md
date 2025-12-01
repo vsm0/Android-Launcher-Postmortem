@@ -137,7 +137,7 @@ The 0.1.0 build had:
 - **Persistence:** All data saved via Proto DataStore.
 - **Material You design:** Wallpaper-adaptive colors, transparency effects.
 
-Under the hood, the data flow had evolved. First few iterations were standard: need data? Request it, wait for response, update UI. Later, I invented a ViewModel cache to preemptively preload views based on a smart navigation graph prediction. This increased performance and responsiveness. That's the architecture in the current 1.0 iteration.
+Under the hood, the data flow had evolved. First few iterations were standard: need data? Request it, wait for response, update UI. Later, I invented a ViewModel cache to preemptively preload views based on a smart navigation graph prediction. This increased performance and responsiveness. That's the architecture in the current 0.1.0 iteration.
 
 ## Release Hell
 
@@ -153,7 +153,7 @@ Debug-signed apps can only be installed via Android Studio and maybe ADB (I have
 
 This, among other tiny annoyances I can't quite recall, made the Android tooling and ecosystem hell to troubleshoot and develop in.
 
-But I built the 1.0 app and felt fine. It was done. Presentable. Functional.
+But I built the 0.1.0 app and felt fine. It was done. Presentable. Functional.
 
 ## Current State and Reflection
 
