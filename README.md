@@ -131,6 +131,7 @@ The 1.0 build had:
 - **Widgets view:** A scrolling list of widgets. Minimal, customizable.
 - **App list view:** Scrolling, searchable, alphabetical list of installed apps.
 - **Floating action button:** Tap to jump to app search. Long-press to open settings.
+- **Context menu:** Long-press an app icon to go to its settings page.
 - **Settings:** Organized into general, apps, widgets, system, and experimental categories.
 - **Lock functionality:** Double-tap the widgets view or alphabet scroll to lock the device.
 - **Persistence:** All data saved via Proto DataStore.
