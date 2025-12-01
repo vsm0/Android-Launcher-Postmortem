@@ -2,7 +2,7 @@
 
 ## Origins and Motivation
 
-My college class had a straightforward requirement: build an mobile or web app over one semester. Four quarters—design, data implementation, feature development, polish.
+My college class had a straightforward requirement: build a mobile or web app over one semester. Four quarters—design, data implementation, feature development, polish.
 
 I chose Android, and the decision wasn't arbitrary.
 
